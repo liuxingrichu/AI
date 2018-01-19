@@ -5,3 +5,5 @@
 	- TensorFlow 安装 概念 方法
 - [day003](https://github.com/liuxingrichu/AI/blob/master/day003.md)
 	- kNN 
+- [day004](https://github.com/liuxingrichu/AI/blob/master/day004.md)
+	- MNIST
