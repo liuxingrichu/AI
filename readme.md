@@ -1,6 +1,6 @@
 ## 目录 ##
 - [day001](https://github.com/liuxingrichu/AI/blob/master/day001.md)
-	- 人工智能三大学派 四要素 概念 开源框架
+	- 人工智能三大学派 四要素 概念 机器学习三种方法 趋势 开源框架
 - [day002](https://github.com/liuxingrichu/AI/blob/master/day002.md)
 	- TensorFlow 安装 概念 方法
 - [day003](https://github.com/liuxingrichu/AI/blob/master/day003.md)
