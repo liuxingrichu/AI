@@ -7,3 +7,5 @@
 	- kNN 
 - [day004](https://github.com/liuxingrichu/AI/blob/master/day004.md)
 	- MNIST
+- [day005](https://github.com/liuxingrichu/AI/blob/master/day004.md)
+	- tensorflow之版本、mechanics、线性回归
