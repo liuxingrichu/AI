@@ -10,8 +10,10 @@
 - [day005](https://github.com/liuxingrichu/AI/blob/master/day005.md)
 	- tensorflow之版本、mechanics、How to minimize cost、线性回归、在线导数计算器
 - [day006](https://github.com/liuxingrichu/AI/blob/master/day006.md)
-	- tensorflow之梯度、导数、Logistic regression（Binary classification）
+	- tensorflow之梯度、导数、梯度下降算法、Logistic regression（Binary classification）
 - [day007](https://github.com/liuxingrichu/AI/blob/master/day007.md)
 	- 云 AI
 - [day008](https://github.com/liuxingrichu/AI/blob/master/day008.md)
 	- tensorflow之softmax function
+- [day009](https://github.com/liuxingrichu/AI/blob/master/day009.md)
+	- Neural Net、softmax for mnist、NN for MNIST
