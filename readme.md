@@ -17,3 +17,5 @@
 	- tensorflow之softmax function
 - [day009](https://github.com/liuxingrichu/AI/blob/master/day009.md)
 	- Neural Net、softmax for mnist、NN for MNIST
+- [day010](https://github.com/liuxingrichu/AI/blob/master/day010.md)
+	- Deep Neutral Network、xor、NN for xor、xor-nn-wide-deep
