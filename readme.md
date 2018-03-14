@@ -20,3 +20,5 @@
 - [day010](https://github.com/liuxingrichu/AI/blob/master/day010.md)
 	- Deep Neutral Network、xor、NN for xor、xor-nn-wide-deep
 - [态度题](https://github.com/liuxingrichu/AI/blob/master/reports.md)
+- [day011](https://github.com/liuxingrichu/AI/blob/master/day011.md)
+	- 编程模式、TensorFlow设计理论、tensorflow库、TensorFlow的运行方式
