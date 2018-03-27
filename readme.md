@@ -22,3 +22,5 @@
 - [态度题](https://github.com/liuxingrichu/AI/blob/master/reports.md)
 - [day011](https://github.com/liuxingrichu/AI/blob/master/day011.md)
 	- 编程模式、TensorFlow设计理论、tensorflow库、TensorFlow的运行方式
+- [day012](https://github.com/liuxingrichu/AI/blob/master/day012.md)
+	- 深度学习神经网络 多层感知器和BP算法 CNN RNN 
